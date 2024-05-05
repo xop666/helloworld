@@ -1,2 +1,2 @@
 # helloworld
-My frst repository on GHt
+My frst repository on ght
